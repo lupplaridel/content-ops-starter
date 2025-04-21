@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Where Bright future begins
+      label: Where bright future begins
       color: text-primary
       type: Badge
     elementId: ''
