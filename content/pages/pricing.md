@@ -43,7 +43,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Package 2
-        price: $99
+        price: 'Php 10,000'
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
