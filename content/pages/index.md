@@ -735,7 +735,7 @@ sections:
         - name: Parent's Name
           label: Parent's Name
           hideLabel: true
-          placeholder: Your name
+          placeholder: Parent's Name
           isRequired: true
           width: full
           type: TextFormControl
