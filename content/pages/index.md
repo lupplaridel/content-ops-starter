@@ -9,11 +9,11 @@ sections:
       type: TitleBlock
     subtitle: Plaridel Bulacan Branch
     text: >
-      **Light Up Playhouse** is a joyful learning space in Plaridel, Bulacan,
-      offering playgroups, intervention programs, enrichment classes, tutoring,
-      and kindergarten for children ages 1 to 15. We follow a
-      Montessori-inspired and progressive approach, combining purposeful play
-      with evidence-based practices tailored to each child’s unique needs.
+      A joyful learning space offering playgroups, intervention programs,
+      enrichment classes, tutoring, and kindergarten for children ages 1 to 15.
+      We follow a Montessori-inspired and progressive approach, combining
+      purposeful play with evidence-based practices tailored to each child’s
+      unique needs.
     actions:
       - label: Get started
         altText: ''
