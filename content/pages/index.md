@@ -162,7 +162,7 @@ sections:
           textAlign: center
       type: Badge
     elementId: ''
-    variant: three-col-grid
+    variant: two-col-grid
     colors: bg-neutral-fg-dark
     styles:
       self:
