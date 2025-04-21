@@ -725,11 +725,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "\U0001F4CD Location: Light Up Playhouse, Plaridel, Bulacan\n\U0001F4F1 Mobile: 09999922678\n\U0001F4E7 Email: lightupplaridel\\@gmail.com\n\U0001F4AC FB Messenger: https\\://facebook.com/lightupplaridel\n"
     media:
       fields:
         - name: Parent's Name
