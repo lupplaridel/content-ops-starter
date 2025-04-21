@@ -261,7 +261,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Summer Program
       color: text-dark
       styles:
         self:
