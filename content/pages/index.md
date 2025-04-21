@@ -219,11 +219,27 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: >
+    text: >+
       At Light Up Playhouse, we believe every child deserves a space to shine.
       Whether learning through play, working on specific skills, or preparing
       for school, we tailor our programs to meet each child's needs—with heart,
       patience, and purpose.
+
+
+      **Our Approach**
+
+
+      *   Montessori-inspired, play-based learning
+
+
+      *   Individualized instruction with small groups
+
+
+      *   Warm and inclusive environment
+
+
+      *   Family-centered support
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
