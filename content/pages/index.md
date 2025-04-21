@@ -61,7 +61,11 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      From curious toddlers to growing teens, Light Up Playhouse offers a
+      variety of programs designed to meet each child where they are. Whether
+      your child needs play-based learning, developmental support, or academic
+      enrichment — we’ve got something for everyone!
     items:
       - type: FeaturedItem
         title: Playgroups
