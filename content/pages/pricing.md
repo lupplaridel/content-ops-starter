@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Admissions
 slug: pricing
 sections:
   - title:
