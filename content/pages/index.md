@@ -122,7 +122,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Enrichment & Tutoring
-        subtitle: 1 on 1 Sessions
+        subtitle: Boost Confidence & Curiosity
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
