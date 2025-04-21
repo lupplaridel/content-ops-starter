@@ -73,7 +73,7 @@ sections:
         text: >
           Our Playgroup welcomes toddlers and preschoolers to explore,
           socialize, and grow through creative, sensory, and thematic
-          activities.
+          activities. Max 9 per class.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
