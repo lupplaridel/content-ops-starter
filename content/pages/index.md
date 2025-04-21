@@ -97,7 +97,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Intervention Programs
-        subtitle: 1 on 1 Sessions
+        subtitle: Support Tailored to Your Child’s Needs
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
