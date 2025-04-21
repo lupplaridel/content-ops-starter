@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: WHERE
+      label: Where Bright future begins
       color: text-primary
       type: Badge
     elementId: ''
