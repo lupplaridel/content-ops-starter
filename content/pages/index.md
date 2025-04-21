@@ -100,7 +100,7 @@ sections:
         subtitle: Support Tailored to Your Child’s Needs
         text: >
           We offer evidence-based intervention services for children who may
-          need extra help with communication, behavior, or life skills.
+          need extra help with behavior, communication, or life skills.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
