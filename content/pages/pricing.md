@@ -42,7 +42,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Professional
+      - title: Package 2
         price: $99
         details: per month
         description: >-
