@@ -303,7 +303,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
+      text: Kindergarten
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
