@@ -74,7 +74,7 @@
     "secondaryLinks": [
         {
             "label": "Enroll Now",
-            "altText": "Sign up",
+            "altText": "Enroll Now",
             "url": "https://app.netlify.com/signup",
             "icon": "arrowRight",
             "iconPosition": "right",
