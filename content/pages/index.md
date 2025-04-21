@@ -733,7 +733,7 @@ sections:
     media:
       fields:
         - name: Parent's Name
-          label: Name
+          label: Parent's Name
           hideLabel: true
           placeholder: Your name
           isRequired: true
