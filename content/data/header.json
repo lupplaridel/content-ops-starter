@@ -82,7 +82,7 @@
             "type": "Button"
         },
         {
-            "label": "Book a Visit",
+            "label": "Enroll Now",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
