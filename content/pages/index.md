@@ -436,7 +436,7 @@ sections:
   - type: CarouselSection
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Testimonials
       color: text-dark
     subtitle: Hear From Our Light Up Families
     items:
