@@ -52,7 +52,7 @@ sections:
         features:
           - One Program Only
           - Total of 25 sessions = 20 sessions + 5 FREE (Php 400 per session)
-          - Feature three
+          - FREE Assessment
           - Feature four
         image:
           url: /images/abstract-feature2.svg
