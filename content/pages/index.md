@@ -435,7 +435,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What LUP Parents say about us
+    subtitle: Hear From Our Light Up Families
     items:
       - title: >-
           “A designer knows he has achieved perfection not when there is nothing
