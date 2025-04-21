@@ -724,7 +724,7 @@ sections:
       text: Let's Talk!
       color: text-dark
       type: TitleBlock
-    subtitle: Reach out anytime — we’re all ears!
+    subtitle: Reach out anytime — we’re happy to assist!
     text: |+
       *   Location: Light Up Playhouse, Plaridel, Bulacan
 
