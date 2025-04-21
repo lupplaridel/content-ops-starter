@@ -53,7 +53,7 @@ sections:
           - One Program Only
           - Total of 25 sessions = 20 sessions + 5 FREE (Php 400 per session)
           - FREE Assessment
-          - Feature four
+          - FREE Lootbag & Shirt
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
