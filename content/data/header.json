@@ -73,7 +73,7 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Enroll Now",
+            "label": "Book A Visit",
             "altText": "Enroll Now",
             "url": "https://app.netlify.com/signup",
             "icon": "arrowRight",
