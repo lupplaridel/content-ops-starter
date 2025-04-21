@@ -752,6 +752,7 @@ sections:
           placeholder: 'Child''s Age, Program of Interest, Your Message'
           width: full
           type: TextareaFormControl
+          isRequired: true
       elementId: contact-form
       styles:
         self:
