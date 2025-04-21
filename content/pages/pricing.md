@@ -19,7 +19,7 @@ sections:
           accusantium doloremque.
         features:
           - 10 sessions (Php 500 per session)
-          - Feature two
+          - FREE Assessment
           - Feature three
           - Feature four
         image:
