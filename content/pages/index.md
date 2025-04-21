@@ -151,7 +151,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: Warm and inclusive environment
+      label: Tailored Learning for Every Stage of Childhood
       color: text-primary
       styles:
         self:
