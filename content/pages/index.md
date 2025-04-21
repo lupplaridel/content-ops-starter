@@ -56,7 +56,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       text: Our Programs
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
