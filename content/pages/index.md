@@ -749,7 +749,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: 'Child''s Age, Program of Interest, Your Message'
+          placeholder: 'Child''s Age, Program of Interest, Your Message/Concern'
           width: full
           type: TextareaFormControl
           isRequired: true
