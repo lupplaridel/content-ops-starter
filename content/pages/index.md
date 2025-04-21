@@ -740,7 +740,7 @@ sections:
           width: full
           type: TextFormControl
         - name: Contact Number
-          label: Email
+          label: Contact Number
           hideLabel: true
           placeholder: Your email
           isRequired: true
