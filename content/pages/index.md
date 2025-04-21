@@ -38,7 +38,7 @@ sections:
       type: ImageBlock
     badge:
       label: Where bright future begins
-      color: text-light
+      color: text-dark
       type: Badge
     elementId: ''
     colors: bg-light-fg-dark
