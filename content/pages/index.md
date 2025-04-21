@@ -64,7 +64,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: Kindergarten & Playgroups
+        title: Playgroups
         subtitle: Group Sessions
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
