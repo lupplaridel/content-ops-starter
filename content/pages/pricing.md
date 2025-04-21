@@ -13,7 +13,7 @@ sections:
     plans:
       - title: Package 1
         price: 'Php 5,000'
-        details: No credit card required
+        details: One Program Only
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
