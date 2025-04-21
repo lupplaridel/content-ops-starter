@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Admissions",
-            "url": "/packages",
+            "url": "/admissions",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
