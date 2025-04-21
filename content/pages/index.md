@@ -245,7 +245,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: about us
       color: text-primary
       styles:
         self:
