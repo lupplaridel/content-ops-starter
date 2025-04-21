@@ -18,7 +18,7 @@ sections:
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
         features:
-          - ''
+          - One Program Only
           - 10 sessions (Php 500 per session)
           - FREE Assessment
           - FREE Lootbag & Shirt
