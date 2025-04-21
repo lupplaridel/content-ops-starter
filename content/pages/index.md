@@ -9,9 +9,11 @@ sections:
       type: TitleBlock
     subtitle: Plaridel Bulacan Branch
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      **Light Up Playhouse** is a joyful learning space in Plaridel, Bulacan,
+      offering playgroups, intervention programs, enrichment classes, tutoring,
+      and kindergarten for children ages 1 to 15. We follow a
+      Montessori-inspired and progressive approach, combining purposeful play
+      with evidence-based practices tailored to each child’s unique needs.
     actions:
       - label: Get started
         altText: ''
