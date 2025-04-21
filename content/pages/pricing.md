@@ -51,7 +51,7 @@ sections:
           accusantium doloremque.
         features:
           - One Program Only
-          - Feature two
+          - 10 sessions + 5 FREE sessions (Php 500 per session)
           - Feature three
           - Feature four
         image:
