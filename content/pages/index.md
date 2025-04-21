@@ -33,7 +33,7 @@ sections:
         type: Link
     media:
       url: /images/PLAYHOUSE (1600 x 1040 px).jpg
-      altText: Unblock your team boost your time to production preview
+      altText: Light Up Playhouse Plaridel Bulacan
       elementId: ''
       type: ImageBlock
     badge:
