@@ -742,7 +742,7 @@ sections:
         - name: Contact Number
           label: Contact Number
           hideLabel: true
-          placeholder: Your email
+          placeholder: Contact Number
           isRequired: true
           width: full
           type: EmailFormControl
