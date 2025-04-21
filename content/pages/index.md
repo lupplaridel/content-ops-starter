@@ -219,11 +219,11 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      At Light Up Playhouse, we believe every child deserves a space to shine.
+      Whether learning through play, working on specific skills, or preparing
+      for school, we tailor our programs to meet each child's needs—with heart,
+      patience, and purpose.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
