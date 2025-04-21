@@ -65,7 +65,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Playgroups
-        subtitle: Group Sessions
+        subtitle: Discover Through Play
         text: >
           Our Playgroup welcomes toddlers and preschoolers to explore,
           socialize, and grow through creative, sensory, and thematic
