@@ -82,7 +82,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Book a Visit",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
