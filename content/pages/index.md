@@ -145,10 +145,10 @@ sections:
       - type: FeaturedItem
         title: Kindergarten
         subtitle: Center-Based Homeschool Program (With DepEd LRN)
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          With a program recognized by the Department of Education, children
+          will learn in a small, guided setting with a mix of structured
+          academics and play-based exploration.
         image:
           type: ImageBlock
           url: /images/icon1.svg
