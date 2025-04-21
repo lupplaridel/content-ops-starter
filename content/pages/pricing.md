@@ -44,7 +44,7 @@ sections:
         type: PricingPlan
       - title: Package 2
         price: 'Php 10,000'
-        details: per month
+        details: One Program Onl
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
