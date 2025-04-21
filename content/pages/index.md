@@ -68,7 +68,7 @@ sections:
       enrichment — we’ve got something for everyone!
     items:
       - type: FeaturedItem
-        title: Playgroups
+        title: "Playgroup\_ (Ages 1–5)"
         subtitle: Discover Through Play
         text: >
           Our Playgroup welcomes toddlers and preschoolers to explore,
