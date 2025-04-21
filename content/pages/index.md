@@ -122,10 +122,9 @@ sections:
         type: FeaturedItem
       - title: Enrichment & Tutoring
         subtitle: Boost Confidence & Curiosity
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Whether your child needs extra help or is eager to learn more, our
+          enrichment sessions make learning fun and meaningful. 1 on 1.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
