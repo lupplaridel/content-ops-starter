@@ -20,7 +20,7 @@ sections:
         features:
           - 10 sessions (Php 500 per session)
           - FREE Assessment
-          - Feature three
+          - FREE Lootbag & Shirt
           - Feature four
         image:
           url: /images/abstract-feature1.svg
