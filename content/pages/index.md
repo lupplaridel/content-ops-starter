@@ -579,7 +579,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Intervention Programs
       color: text-primary
       styles:
         self:
