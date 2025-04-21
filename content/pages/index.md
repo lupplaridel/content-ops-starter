@@ -124,7 +124,7 @@ sections:
         subtitle: Boost Confidence & Curiosity
         text: >
           Whether your child needs extra help or is eager to learn more, our
-          enrichment sessions make learning fun and meaningful. 1 on 1.
+          enrichment sessions make learning fun and meaningful. 1 on 1 or Group.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
