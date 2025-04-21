@@ -402,7 +402,7 @@ sections:
   - type: CarouselSection
     title:
       type: TitleBlock
-      text: Testimonials
+      text: ''
       color: text-dark
     subtitle: Hear From Our Light Up Families
     items:
