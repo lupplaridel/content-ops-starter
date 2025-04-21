@@ -218,7 +218,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: ''
     text: >
       At Light Up Playhouse, we believe every child deserves a space to shine.
       Whether learning through play, working on specific skills, or preparing
