@@ -725,7 +725,15 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: "\U0001F4CD Location: Light Up Playhouse, Plaridel, Bulacan\n\U0001F4F1 Mobile: 09999922678\n\U0001F4E7 Email: lightupplaridel\\@gmail.com\n\U0001F4AC FB Messenger: https\\://facebook.com/lightupplaridel\n"
+    text: |+
+      *   Location: Light Up Playhouse, Plaridel, Bulacan
+
+      *   Mobile: 09999922678
+
+      *   Email: <lightupplaridel@gmail.com>
+
+      *   FB Messenger: <https://facebook.com/lightupplaridel>
+
     media:
       fields:
         - name: Parent's Name
