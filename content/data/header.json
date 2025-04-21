@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Packages",
-            "url": "/pricing",
+            "url": "/packages",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
