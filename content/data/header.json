@@ -31,7 +31,7 @@
         },
         {
             "type": "Link",
-            "label": "Send email",
+            "label": "Contact Us",
             "altText": "Play",
             "url": "/",
             "showIcon": true,
