@@ -50,7 +50,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Enrichment",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
