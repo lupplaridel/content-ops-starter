@@ -42,7 +42,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Interventions",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
