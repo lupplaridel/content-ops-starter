@@ -39,6 +39,17 @@
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "Send",
+            "altText": "Send",
+            "url": "/",
+            "showIcon": true,
+            "icon": "send",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [
