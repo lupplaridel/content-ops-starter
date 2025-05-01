@@ -66,7 +66,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Package 3
-        price: Custom
+        price: 'Php 25,000'
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
