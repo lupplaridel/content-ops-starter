@@ -15,13 +15,7 @@ sections:
       and making a difference in young lives? Join our growing team of
       educators, therapists, and support staff who light up every child’s
       world—one day at a time.
-    actions:
-      - label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Button
+    actions: []
     colors: bg-neutral-fg-dark
     styles:
       self:
