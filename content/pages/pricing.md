@@ -168,7 +168,7 @@ sections:
         actions:
           - type: Button
             label: Enroll Now
-            url: ''
+            url: facebook.com/lightupplaridel
             icon: arrowRight
             iconPosition: right
             style: secondary
