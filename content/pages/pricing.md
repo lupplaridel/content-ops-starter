@@ -140,7 +140,7 @@ sections:
           - All Programs
           - Total of 175 sessions = 100 sessions + 75 FREE (Php 285 per session)
           - FREE Assessment
-          - Feature four
+          - FREE Lootbag & Shirt
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
