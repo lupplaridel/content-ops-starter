@@ -83,17 +83,17 @@ sections:
           hideLabel: true
           placeholder: Your message
           width: full
-        - type: CheckboxFormControl
-          name: Does your child have a diagnosed developmental concern?
-          label: I have read and accept the legal terms.
-          isRequired: false
-          width: full
         - type: SelectFormControl
           name: 'How did you hear about us? '
           label: Company size
           hideLabel: false
           defaultValue: Please choose...
           options: []
+          isRequired: false
+          width: full
+        - type: CheckboxFormControl
+          name: Does your child have a diagnosed developmental concern?
+          label: I have read and accept the legal terms.
           isRequired: false
           width: full
       submitButton:
