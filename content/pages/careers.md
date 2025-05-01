@@ -73,7 +73,7 @@ sections:
         textAlign: center
     type: FeaturedPeopleSection
   - title:
-      text: Be Part of Something Bright
+      text: Open Positions
       color: text-dark
       styles:
         self:
