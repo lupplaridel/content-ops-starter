@@ -26,7 +26,7 @@ sections:
           - 1 session per week
         actions:
           - label: Enroll Now
-            url: /
+            url: /enrollnow
             icon: arrowRight
             iconPosition: right
             style: secondary
