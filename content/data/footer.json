@@ -5,7 +5,7 @@
         "links": [
             {
                 "label": "Intent to Enroll",
-                "altText": "Features page",
+                "altText": "Enroll Now",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
