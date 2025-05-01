@@ -45,7 +45,7 @@
         {
             "type": "Button",
             "label": "Book a Visit",
-            "altText": "",
+            "altText": "Free Trial Class",
             "url": "https://facebook.com/lightupplayhouseplaridel/",
             "showIcon": false,
             "icon": "arrowRight",
