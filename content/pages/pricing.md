@@ -168,7 +168,7 @@ sections:
         actions:
           - type: Button
             label: Enroll Now
-            url: /
+            url: ''
             icon: arrowRight
             iconPosition: right
             style: secondary
