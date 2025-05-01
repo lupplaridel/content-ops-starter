@@ -158,9 +158,8 @@ sections:
         title: Kindergarten
         price: 'Php 45,000'
         details: Installment Available
-        description: >
-          With DepEd LRN. Center-based Home School Program. SPED Kindergarten
-          Program also available.
+        description: |
+          With DepEd LRN. SPED Kindergarten Program also available.
         features:
           - 'Inclusive of Light Up Bag, Workbooks, Learning Kits and Uniforms'
           - DepED Recognized Program
