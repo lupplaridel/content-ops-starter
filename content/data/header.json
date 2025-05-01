@@ -52,14 +52,6 @@
             "type": "Button"
         },
         {
-            "label": "Enroll Now",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Button"
-        },
-        {
             "type": "Button",
             "label": "Book a Visit",
             "altText": "",
@@ -69,6 +61,14 @@
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
+        },
+        {
+            "label": "Enroll Now",
+            "url": "/",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "type": "Button"
         }
     ],
     "variant": "logo-left-primary-nav-centered",
