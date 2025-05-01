@@ -88,7 +88,8 @@ sections:
           label: 'How did you hear about us? '
           hideLabel: false
           defaultValue: Please choose...
-          options: []
+          options:
+            - ''
           isRequired: false
           width: full
         - type: CheckboxFormControl
