@@ -432,7 +432,7 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: Light Up Playhouse Plaridel Bulacan Branch
   metaDescription: >-
     Light Up Playhouse is a progressive learning center in Plaridel, Bulacan
     offering early education, intervention programs (Speech, OT, ABA),
