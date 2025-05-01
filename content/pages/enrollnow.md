@@ -133,6 +133,6 @@ seo:
   metaTitle: Light Up Playhouse Plaridel Bulacan
   metaDescription: Write here your new page's description including most relevant keywords.
   addTitleSuffix: true
-  socialImage: /images/Light Up Playhouse logo FINAL.png
+  socialImage: /images/PLAYHOUSE (1600 x 1040 px).jpg
   metaTags: []
 ---
