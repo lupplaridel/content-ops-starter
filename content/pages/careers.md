@@ -125,7 +125,7 @@ sections:
             flexDirection: row
     actions:
       - label: Apply now
-        url: /
+        url: 'mailto: lightupplaridel@gmail.com'
         icon: arrowRight
         iconPosition: right
         style: primary
