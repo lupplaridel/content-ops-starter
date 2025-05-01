@@ -77,12 +77,6 @@
             "url": "https://www.linkedin.com/company/netlify",
             "icon": "mail",
             "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
         }
     ],
     "legalLinks": [
