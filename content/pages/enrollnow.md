@@ -29,7 +29,7 @@ sections:
           width: full
         - type: TextFormControl
           name: Parent/Guardian Full Name
-          label: Name
+          label: Parent/Guardian Full Name
           hideLabel: true
           placeholder: Your name
           isRequired: true
