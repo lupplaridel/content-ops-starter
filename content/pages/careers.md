@@ -53,11 +53,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: >-
-      Are you passionate about early childhood development, playful learning,
-      and making a difference in young lives? Join our growing team of
-      educators, therapists, and support staff who light up every child’s
-      world—one day at a time.
+    subtitle: ''
     items:
       - title: SPED Teacher
         subtitle: Full Time
