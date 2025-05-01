@@ -86,7 +86,7 @@ sections:
       world—one day at a time.
     items:
       - title: Preschool Teacher (Full Time)
-        subtitle: Sales
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
