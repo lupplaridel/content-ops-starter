@@ -85,7 +85,7 @@ sections:
           width: full
         - type: SelectFormControl
           name: 'How did you hear about us? '
-          label: Company size
+          label: 'How did you hear about us? '
           hideLabel: false
           defaultValue: Please choose...
           options: []
