@@ -3,7 +3,7 @@ title: Admissions
 slug: pricing
 sections:
   - title:
-      text: Available Packages that c
+      text: Choose the Perfect Program for Your Little Learner
       color: text-dark
       styles:
         self:
