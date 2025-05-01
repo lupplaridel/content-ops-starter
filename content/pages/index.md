@@ -373,7 +373,7 @@ sections:
       type: TitleBlock
     subtitle: Reach out anytime — we’re happy to assist!
     text: |+
-      *   Location: Gov Padilla Rd, Plaridel, Bulacan
+      *   Location: Gov Padilla Rd, Agnaya, Plaridel, Bulacan
 
       *   Mobile: 09999922678
 
