@@ -148,13 +148,6 @@ sections:
           Support children’s growth in sensory processing, fine motor skills,
           and daily routines. As a consultant OT, you'll work in a collaborative
           and child-led environment that values development through play.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
         actions: []
         colors: bg-light-fg-dark
         styles:
