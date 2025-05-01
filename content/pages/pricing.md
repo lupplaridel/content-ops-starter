@@ -189,9 +189,12 @@ sections:
         textAlign: center
     type: PricingSection
 seo:
-  metaTitle: Pricing - Demo site
-  metaDescription: This is the pricing page built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Rates - Light Up Playhouse Plaridel Bulacan Branch
+  metaDescription: >-
+    Light Up Playhouse is a progressive learning center in Plaridel, Bulacan
+    offering early education, intervention programs (Speech, OT, ABA),
+    play-based learning, and after-school enrichment for children ages 1-15.
+  socialImage: /images/PLAYHOUSE (1600 x 1040 px).jpg
   type: Seo
 type: PageLayout
 ---
