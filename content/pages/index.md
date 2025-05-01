@@ -15,7 +15,7 @@ sections:
       purposeful play with evidence-based practices tailored to each child’s
       unique needs.
     actions:
-      - label: Get started
+      - label: Enroll Now
         altText: ''
         url: /enrollnow
         showIcon: false
