@@ -6,7 +6,7 @@
             {
                 "label": "Intent to Enroll",
                 "altText": "Enroll Now",
-                "url": "/",
+                "url": "/enrollnow",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
