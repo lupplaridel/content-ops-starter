@@ -26,7 +26,7 @@ sections:
         type: Button
       - label: Explore Our Packages
         altText: ''
-        url: /
+        url: /pricing
         showIcon: true
         icon: arrowRight
         iconPosition: right
