@@ -55,7 +55,7 @@
         },
         {
             "label": "Enroll Now",
-            "url": "/",
+            "url": "/enrollnow",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
