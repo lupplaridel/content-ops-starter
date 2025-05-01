@@ -85,7 +85,7 @@ sections:
       educators, therapists, and support staff who light up every child’s
       world—one day at a time.
     items:
-      - title: SPED Teacher (Full Time)
+      - title: SPED Teacher
         subtitle: ''
         text: >
           Create meaningful learning moments through structured play and
