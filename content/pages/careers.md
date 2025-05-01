@@ -106,10 +106,10 @@ sections:
         type: FeaturedItem
       - title: Shadow Teacher
         subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Support our learners during classes and free play. Be a guiding
+          presence for children who need a bit more help navigating their day,
+          while learning alongside experienced educators and/or therapists.
         colors: bg-neutral-fg-dark
         styles:
           self:
