@@ -70,13 +70,6 @@ sections:
             - 'No'
           isRequired: true
           width: full
-        - type: TextareaFormControl
-          name: 'How did you hear about us? '
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          isRequired: false
-          width: full
         - type: SelectFormControl
           name: 'How did you hear about us? '
           label: 'How did you hear about us? '
