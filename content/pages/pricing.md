@@ -104,7 +104,7 @@ sections:
 
         features:
           - All Programs
-          - Feature two
+          - Total of 100 sessions = 50 sessions + 25 FREE (Php 333 per session)
           - Feature three
           - Feature four
         image:
