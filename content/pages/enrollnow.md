@@ -55,9 +55,9 @@ sections:
           defaultValue: Please choose...
           options:
             - Kindergarten
+            - Playgroup (1-5 yo)
             - 'Intervention Programs (Speech, ABA, Daily Life Skills)'
             - Enrichment Classes
-            - Playgroup (1-5 yo)
             - ''
           isRequired: false
           width: full
