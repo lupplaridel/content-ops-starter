@@ -72,7 +72,7 @@ sections:
           Best for Intervention and Enrichment Programs
         features:
           - All Programs
-          - Feature two
+          - Total of 75 sessions = 50 sessions + 25 FREE (
           - Feature three
           - Feature four
           - Feature five
