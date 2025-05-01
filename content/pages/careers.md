@@ -125,10 +125,10 @@ sections:
         type: FeaturedItem
       - title: Speech Pathologist
         subtitle: Consultant
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Provide communication-focused intervention in a fun, play-based
+          setting. Join our team as a valued consultant to support children in
+          reaching their speech and language goals.
         colors: bg-neutral-fg-dark
         styles:
           self:
