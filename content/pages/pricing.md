@@ -26,7 +26,7 @@ sections:
           - 1 session per week
         actions:
           - label: Enroll Now
-            url: /
+            url: /enrollnow
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -54,7 +54,7 @@ sections:
           - Can schedule up to 2 sessions per week
         actions:
           - label: Enroll Now
-            url: /
+            url: /enrollnow
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -82,7 +82,7 @@ sections:
           - Can schedule up to 4 sessions per week
         actions:
           - label: Enroll Now
-            url: /
+            url: /enrollnow
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -112,8 +112,8 @@ sections:
           - Can schedule up to 4 sessions per week
         actions:
           - type: Button
-            label: Try for free
-            url: /
+            label: Enroll Now
+            url: /enrollnow
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -141,7 +141,7 @@ sections:
         actions:
           - type: Button
             label: Enroll Now
-            url: /
+            url: /enrollnow
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -168,7 +168,7 @@ sections:
         actions:
           - type: Button
             label: Enroll Now
-            url: facebook.com/lightupplaridel
+            url: /enrollnow
             icon: arrowRight
             iconPosition: right
             style: secondary
