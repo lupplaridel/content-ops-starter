@@ -15,18 +15,18 @@ sections:
       purposeful play with evidence-based practices tailored to each child’s
       unique needs.
     actions:
-      - label: Get started
+      - label: Enroll Now
         altText: ''
-        url: /
+        url: /enrollnow
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
         type: Button
-      - label: Explore Our Programs
+      - label: Explore Our Packages
         altText: ''
-        url: /
+        url: /pricing
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -172,9 +172,9 @@ sections:
             justifyContent: center
             textAlign: left
     actions:
-      - label: Get started
+      - label: Enroll Now
         altText: ''
-        url: /
+        url: /enrollnow
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -229,7 +229,7 @@ sections:
       **Our Approach**
 
 
-      *   Montessori-inspired, play-based learning
+      *   Montessori-inspired, student-centered play-based learning
 
 
       *   Individualized instruction with small groups
@@ -372,12 +372,16 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Reach out anytime — we’re happy to assist!
-    text: |+
-      *   Location: Light Up Playhouse, Plaridel, Bulacan
+    text: >+
+      *   Location: Gov Padilla Rd, Agnaya, Plaridel, Bulacan (in front of
+      Meralco)
+
 
       *   Mobile: 09999922678
 
+
       *   Email: <lightupplaridel@gmail.com>
+
 
       *   FB Messenger: <https://facebook.com/lightupplaridel>
 
