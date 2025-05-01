@@ -57,7 +57,7 @@ sections:
             - Kindergarten
             - 'Early Intervention (Speech, OT, ABA)'
             - Enrichment Classes
-            - ''
+            - Playgroup (1-5 yo)
           isRequired: false
           width: full
         - type: TextareaFormControl
