@@ -67,7 +67,7 @@ sections:
           defaultValue: Please choose...
           options:
             - 'Yes'
-            - ''
+            - 'No'
           isRequired: true
           width: full
         - type: TextareaFormControl
