@@ -27,6 +27,13 @@ sections:
           placeholder: Child’s Birthdate
           isRequired: true
           width: full
+        - type: TextFormControl
+          name: Parent/Guardian Full Name
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
+          width: full
         - type: EmailFormControl
           name: email
           label: Email
@@ -39,13 +46,6 @@ sections:
           label: Message
           hideLabel: true
           placeholder: Your message
-          width: full
-        - type: TextFormControl
-          name: Parent/Guardian Full Name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
           width: full
       submitButton:
         type: SubmitButtonFormControl
