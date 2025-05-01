@@ -189,7 +189,7 @@ sections:
         textAlign: center
     type: PricingSection
 seo:
-  metaTitle: Rates - Demo site
+  metaTitle: Rates - Light Up Playhouse Plaridel Bulacan Branch
   metaDescription: >-
     Light Up Playhouse is a progressive learning center in Plaridel, Bulacan
     offering early education, intervention programs (Speech, OT, ABA),
