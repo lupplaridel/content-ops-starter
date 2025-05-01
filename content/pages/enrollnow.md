@@ -90,6 +90,7 @@ sections:
           defaultValue: Please choose...
           options:
             - Referral
+            - ''
           isRequired: false
           width: full
         - type: CheckboxFormControl
