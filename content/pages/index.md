@@ -76,7 +76,7 @@ sections:
           activities. Max 9 per class.
         actions: []
         elementId: null
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
