@@ -167,7 +167,7 @@ sections:
           - 'Child must be 5 yrs old by Oct 31, 2025'
         actions:
           - type: Button
-            label: Try for free
+            label: Enroll Now
             url: /
             icon: arrowRight
             iconPosition: right
