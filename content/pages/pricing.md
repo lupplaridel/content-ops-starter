@@ -54,7 +54,7 @@ sections:
           - Can schedule up to 2 sessions per week
         actions:
           - label: Enroll Now
-            url: /
+            url: /enrollnow
             icon: arrowRight
             iconPosition: right
             style: secondary
