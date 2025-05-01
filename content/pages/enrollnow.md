@@ -66,7 +66,7 @@ sections:
           hideLabel: false
           defaultValue: Please choose...
           options: []
-          isRequired: false
+          isRequired: true
           width: full
         - type: TextareaFormControl
           name: Program You're Interested In
