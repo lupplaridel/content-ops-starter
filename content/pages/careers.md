@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
+    subtitle: 'Be '
     text: >
       Are you passionate about early childhood development, playful learning,
       and making a difference in young lives? Join our growing team of
