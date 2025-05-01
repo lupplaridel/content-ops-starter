@@ -85,7 +85,7 @@ sections:
       educators, therapists, and support staff who light up every child’s
       world—one day at a time.
     items:
-      - title: Account Executive
+      - title: Preschool Teacher (Full Time)
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
