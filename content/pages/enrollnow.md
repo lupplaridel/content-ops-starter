@@ -98,7 +98,9 @@ sections:
           width: full
         - type: CheckboxFormControl
           name: updates
-          label: I have read and accept the legal terms.
+          label: >-
+            Submitting this form means you consent to Light Up Playhouse
+            contacting you regarding your child’s enrollment.
           isRequired: false
           width: full
       submitButton:
