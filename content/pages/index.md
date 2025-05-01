@@ -277,10 +277,11 @@ sections:
           left to add, but when there is nothing left to take away.”
         tagline: Testimonial 1
         subtitle: Mommy A
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Thank you so much po teacher.. Yes na kwento nga po ni husband na
+          natawag na po sya ng Papa kanina. Nkkita po namin ang improvement ni
+          Yanna and sobrang thankful po kami sa milestone nya n un.   Hindi po
+          kami nag kamali ng pinag tiwalaan. More power po Light Up Family
         image:
           altText: Maria Walters
           styles:
