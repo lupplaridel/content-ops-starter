@@ -96,6 +96,13 @@ sections:
             - Others
           isRequired: false
           width: full
+        - type: CheckboxFormControl
+          name: Agree
+          label: >-
+            Submitting this form means you consent to Light Up Playhouse
+            contacting you regarding your child’s enrollment.
+          isRequired: true
+          width: full
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
