@@ -125,7 +125,7 @@ sections:
             flexDirection: row
     actions:
       - label: Apply now
-        url: /
+        url: ''
         icon: arrowRight
         iconPosition: right
         style: primary
