@@ -229,7 +229,7 @@ sections:
       **Our Approach**
 
 
-      *   Montessori-inspired, play-based learning
+      *   Montessori-inspired, student-centered play-based learning
 
 
       *   Individualized instruction with small groups
