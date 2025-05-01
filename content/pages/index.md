@@ -332,10 +332,13 @@ sections:
           make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Thanks so much for sending this. We’re really grateful for the
+          attention and encouragement she receives and will receive each
+          session. Very glad to hear how happy and engaged she is. She really
+          loves music and storytelling po talaga, there are times na binabasahan
+          and kinakantahan niya kami sa house, kahit na di pa exact ‘yung words.
+          Thanks for all that you do, teachers!
         image:
           altText: Maria Walters
           styles:
