@@ -144,8 +144,10 @@ sections:
         title: Occupational Therapist
         tagline: ''
         subtitle: Consultant
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Support children’s growth in sensory processing, fine motor skills,
+          and daily routines. As a consultant OT, you'll work in a collaborative
+          and child-led environment that values development through play.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
