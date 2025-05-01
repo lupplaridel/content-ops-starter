@@ -152,7 +152,7 @@ sections:
           academics and play-based exploration.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/1.jpg
           altText: Placeholder text
           elementId: ''
           styles:
