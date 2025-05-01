@@ -77,7 +77,7 @@ sections:
           - FREE Lootbag & Shirt
           - Can schedule up to 4 sessions per week
         actions:
-          - label: Contact us
+          - label: Enroll Now
             url: /
             icon: arrowRight
             iconPosition: right
