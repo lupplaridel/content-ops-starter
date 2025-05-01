@@ -163,7 +163,7 @@ sections:
           Program also available.
         features:
           - 'Inclusive of Light Up Bag, Workbooks, Learning Kits and Uniforms'
-          - With DepED LRN. DepED Recognized Program
+          - DepED Recognized Program
           - Progressive Learning Approach
           - ''
         image:
