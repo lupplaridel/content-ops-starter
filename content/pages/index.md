@@ -328,8 +328,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
+          "We’re really grateful for the attention and encouragement she
+          receives and will receive each session. "
         tagline: Testimonial 3
         subtitle: Mommy A
         text: >
