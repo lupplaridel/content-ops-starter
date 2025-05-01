@@ -90,7 +90,7 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
+          altText: playgroup
           elementId: ''
           url: /images/1.jpg
           styles:
