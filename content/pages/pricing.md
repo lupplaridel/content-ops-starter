@@ -9,7 +9,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: >-
+      Explore our flexible packages designed to fit your child’s needs,
+      schedule, and developmental stage.
     plans:
       - title: Package 1
         price: 'Php 5,000'
