@@ -71,7 +71,7 @@ sections:
           isRequired: true
           width: full
         - type: TextareaFormControl
-          name: Program You're Interested In
+          name: 'How did you hear about us? '
           label: Message
           hideLabel: true
           placeholder: Your message
