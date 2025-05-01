@@ -105,7 +105,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Shadow Teacher
-        subtitle: Marketing
+        subtitle: Part-time
         text: >
           Support our learners during classes and free play. Be a guiding
           presence for children who need a bit more help navigating their day,
