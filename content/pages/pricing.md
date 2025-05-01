@@ -3,7 +3,7 @@ title: Admissions
 slug: pricing
 sections:
   - title:
-      text: Admissions
+      text: Packages
       color: text-dark
       styles:
         self:
