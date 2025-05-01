@@ -307,10 +307,8 @@ sections:
           accomplish a particular purpose."
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Happy ang baby ko hehe. Ang laki po ng improvement niya. Thank you po
         image:
           altText: John Doe
           styles:
