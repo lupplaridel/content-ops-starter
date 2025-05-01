@@ -48,6 +48,13 @@ sections:
           placeholder: Email Address
           isRequired: true
           width: full
+        - type: TextFormControl
+          name: Facebook Messenger Name
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
+          width: full
         - type: SelectFormControl
           name: Program You're Interested In
           label: Program You're Interested In
@@ -88,13 +95,6 @@ sections:
             - Walk-in
             - Others
           isRequired: false
-          width: full
-        - type: TextFormControl
-          name: Facebook Messenger Name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
           width: full
       submitButton:
         type: SubmitButtonFormControl
