@@ -162,7 +162,7 @@ sections:
           With DepEd LRN. Center-based Home School Program. SPED Kindergarten
           Program also available.
         features:
-          - 'Inclusive '
+          - 'Inclusive of Light Up Bag, Workbooks, Learning Kits and Uniforms'
           - Feature two
           - Feature three
           - Feature four
