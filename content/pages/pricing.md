@@ -97,7 +97,7 @@ sections:
         type: PricingPlan
       - type: PricingPlan
         title: Package 4
-        price: Free
+        price: Installment Available
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
