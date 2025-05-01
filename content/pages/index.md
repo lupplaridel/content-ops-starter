@@ -273,8 +273,8 @@ sections:
     subtitle: Hear From Our Light Up Families
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          Hindi po kami nag kamali ng pinag tiwalaan. More power po Light Up
+          Family"
         tagline: Testimonial 1
         subtitle: Mommy A
         text: >
