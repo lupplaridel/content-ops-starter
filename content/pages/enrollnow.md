@@ -14,7 +14,7 @@ sections:
       type: FormBlock
       fields:
         - type: TextFormControl
-          name: name
+          name: Child's Full Name
           label: Name
           hideLabel: true
           placeholder: Your name
