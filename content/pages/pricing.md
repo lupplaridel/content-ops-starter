@@ -76,10 +76,6 @@ sections:
           - FREE Assessment
           - FREE Lootbag & Shirt
           - Can schedule up to 4 sessions per week
-        image:
-          url: /images/abstract-feature3.svg
-          altText: Pricing plan 3
-          type: ImageBlock
         actions:
           - label: Contact us
             url: /
