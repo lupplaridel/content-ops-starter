@@ -8,11 +8,7 @@ sections:
       text: Enrollment Form
       color: text-dark
     subtitle: Secure your child’s slot at Light Up Playhouse!
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "We're excited to welcome your little one to a space where learning is joyful, purposeful, and play-based. Please complete the form below to help us get to know your child and match them with the right program. Our team will be in touch within 24–48 hours after submission.\n\nLet’s light up your child’s learning journey together! \U0001F4A1\n"
     actions: []
     media:
       type: FormBlock
