@@ -280,8 +280,8 @@ sections:
         text: >
           Thank you so much po teacher.. Yes na kwento nga po ni husband na
           natawag na po sya ng Papa kanina. Nkkita po namin ang improvement ni
-          Yanna and sobrang thankful po kami sa milestone nya n un.   Hindi po
-          kami nag kamali ng pinag tiwalaan. More power po Light Up Family
+          Y\*\*\*\* and sobrang thankful po kami sa milestone nya n un.   Hindi
+          po kami nag kamali ng pinag tiwalaan. More power po Light Up Family
         image:
           altText: Maria Walters
           styles:
