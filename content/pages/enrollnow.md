@@ -31,7 +31,7 @@ sections:
           name: Parent/Guardian Full Name
           label: Parent/Guardian Full Name
           hideLabel: true
-          placeholder: Your name
+          placeholder: Parent/Guardian Full Name
           isRequired: true
           width: full
         - type: EmailFormControl
