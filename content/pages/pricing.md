@@ -133,7 +133,7 @@ sections:
       - type: PricingPlan
         title: Package 5 (Premium)
         price: 'Php 50,000'
-        details: Installment Available
+        details: Best for Intervention and Enrichment Programs
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
