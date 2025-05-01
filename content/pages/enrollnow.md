@@ -15,7 +15,7 @@ sections:
       fields:
         - type: TextFormControl
           name: Child's Full Name
-          label: Name
+          label: Child's Full Name
           hideLabel: true
           placeholder: Child's Full Name
           isRequired: true
