@@ -273,7 +273,7 @@ sections:
     subtitle: Hear From Our Light Up Families
     items:
       - title: >-
-          Hindi po kami nag kamali ng pinag tiwalaan. More power po Light Up
+          "Hindi po kami nag kamali ng pinag tiwalaan. More power po Light Up
           Family"
         tagline: Testimonial 1
         subtitle: Mommy A
