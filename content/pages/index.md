@@ -331,7 +331,7 @@ sections:
           "Design is how it works, how it functions. Good design doesn't just
           make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
+        subtitle: Mommy A
         text: >
           Thanks so much for sending this. We’re really grateful for the
           attention and encouragement she receives and will receive each
