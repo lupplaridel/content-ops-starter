@@ -107,7 +107,7 @@ sections:
           - Total of 100 sessions = 75 sessions + 25 FREE (Php 300 per session)
           - FREE Assessment
           - FREE Lootbag & Shirt
-          - ''
+          - Can schedule up to 4 sessions per week
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
