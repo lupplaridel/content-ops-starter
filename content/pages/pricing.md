@@ -163,7 +163,7 @@ sections:
           Program also available.
         features:
           - 'Inclusive of Light Up Bag, Workbooks, Learning Kits and Uniforms'
-          - Feature two
+          - With DepED LRN. DepED Recognized Program
           - Feature three
           - Feature four
         image:
