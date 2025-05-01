@@ -123,7 +123,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Speech Pathologist (Consultant)
+      - title: Speech Pathologist
         subtitle: Consultant
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
