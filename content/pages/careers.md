@@ -143,7 +143,7 @@ sections:
       - type: FeaturedItem
         title: Occupational Therapist
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Consultant
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
