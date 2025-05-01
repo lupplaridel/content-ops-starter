@@ -68,7 +68,7 @@
         },
         {
             "altText": "Email",
-            "url": "https://www.linkedin.com/company/netlify",
+            "url": "mailto: ",
             "icon": "mail",
             "type": "Social"
         }
