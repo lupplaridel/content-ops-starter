@@ -141,7 +141,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
       - type: FeaturedItem
-        title: Occupational Therapist (Consultant)
+        title: Occupational Therapist
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
