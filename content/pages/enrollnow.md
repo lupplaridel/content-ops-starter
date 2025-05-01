@@ -24,7 +24,7 @@ sections:
           name: Child’s Birthdate
           label: Child’s Birthdate
           hideLabel: true
-          placeholder: Your name
+          placeholder: Child’s Birthdate
           isRequired: true
           width: full
         - type: EmailFormControl
