@@ -17,7 +17,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /pricing
+        url: /enrollnow
         showIcon: false
         icon: arrowRight
         iconPosition: right
