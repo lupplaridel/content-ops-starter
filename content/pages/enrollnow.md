@@ -137,6 +137,5 @@ seo:
     play-based learning, and after-school enrichment for children ages 1-15.
   addTitleSuffix: false
   socialImage: /images/PLAYHOUSE (1600 x 1040 px).jpg
-  metaTags:
-    - type: MetaTag
+  metaTags: []
 ---
