@@ -105,7 +105,7 @@ sections:
         features:
           - All Programs
           - Total of 100 sessions = 75 sessions + 25 FREE (Php 300 per session)
-          - Feature three
+          - FREE Assessment
           - Feature four
         image:
           type: ImageBlock
