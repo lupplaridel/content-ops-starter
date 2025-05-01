@@ -23,7 +23,7 @@ sections:
           - 10 sessions (Php 500 per session)
           - FREE Assessment
           - FREE Lootbag & Shirt
-          - ''
+          - 1 session per week
         actions:
           - label: Enroll Now
             url: /
