@@ -172,7 +172,7 @@ sections:
             justifyContent: center
             textAlign: left
     actions:
-      - label: Get started
+      - label: Enroll Now
         altText: ''
         url: /
         showIcon: false
