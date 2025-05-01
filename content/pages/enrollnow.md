@@ -34,6 +34,13 @@ sections:
           placeholder: Parent/Guardian Full Name
           isRequired: true
           width: full
+        - type: TextFormControl
+          name: Mobile Number
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
+          width: full
         - type: EmailFormControl
           name: email
           label: Email
@@ -46,13 +53,6 @@ sections:
           label: Message
           hideLabel: true
           placeholder: Your message
-          width: full
-        - type: TextFormControl
-          name: Mobile Number
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
           width: full
       submitButton:
         type: SubmitButtonFormControl
