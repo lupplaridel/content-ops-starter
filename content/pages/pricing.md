@@ -162,7 +162,7 @@ sections:
           With DepEd LRN. Center-based Home School Program. SPED Kindergarten
           Program also available.
         features:
-          - Feature one
+          - 'Inclusive '
           - Feature two
           - Feature three
           - Feature four
