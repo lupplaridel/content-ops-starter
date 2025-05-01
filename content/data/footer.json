@@ -75,7 +75,7 @@
         {
             "altText": "LinkedIn link",
             "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
+            "icon": "mail",
             "type": "Social"
         },
         {
