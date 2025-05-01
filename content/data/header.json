@@ -60,15 +60,6 @@
             "iconPosition": "right",
             "style": "primary",
             "type": "Button"
-        },
-        {
-            "label": "Book A Visit",
-            "altText": "Free trial class",
-            "url": "facebook.com/lightupplaridel",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Button"
         }
     ],
     "variant": "logo-left-primary-nav-centered",
