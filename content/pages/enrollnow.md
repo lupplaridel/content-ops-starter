@@ -49,17 +49,17 @@ sections:
           isRequired: true
           width: full
         - type: TextareaFormControl
-          name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-        - type: TextareaFormControl
           name: Program You're Interested In
           label: Message
           hideLabel: true
           placeholder: Your message
           isRequired: false
+          width: full
+        - type: TextareaFormControl
+          name: message
+          label: Message
+          hideLabel: true
+          placeholder: Your message
           width: full
       submitButton:
         type: SubmitButtonFormControl
