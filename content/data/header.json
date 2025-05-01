@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Admissions",
-            "url": "/pricing",
+            "url": "pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
