@@ -42,7 +42,7 @@ sections:
         price: 'Php 10,000'
         details: Installment Available
         description: |
-          For Playgroups, Intervention and Enrichment Programs
+          Best for Playgroups and Enrichment Programs
         features:
           - One Program Only
           - Total of 25 sessions = 20 sessions + 5 FREE (Php 400 per session)
