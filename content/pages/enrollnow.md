@@ -76,6 +76,7 @@ sections:
           hideLabel: true
           placeholder: Your message
           width: full
+          isRequired: false
         - type: SelectFormControl
           name: 'How did you hear about us? '
           label: 'How did you hear about us? '
