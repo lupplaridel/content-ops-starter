@@ -132,7 +132,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Package 5 (Premium)
-        price: Free
+        price: 'Php 50,000'
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
