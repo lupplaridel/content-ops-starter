@@ -68,9 +68,8 @@ sections:
       - title: Package 3
         price: 'Php 25,000'
         details: Installment Available
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: |
+          Best for Intervention and Enrichment Programs
         features:
           - Feature one
           - Feature two
