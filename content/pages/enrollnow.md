@@ -91,6 +91,7 @@ sections:
           options:
             - Referral
             - Facebook
+            - ''
           isRequired: false
           width: full
         - type: CheckboxFormControl
