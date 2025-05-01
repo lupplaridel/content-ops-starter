@@ -96,7 +96,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - type: PricingPlan
-        title: Developers
+        title: Package 4
         price: Free
         details: No credit card required
         description: >-
