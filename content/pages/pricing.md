@@ -164,7 +164,7 @@ sections:
         features:
           - 'Inclusive of Light Up Bag, Workbooks, Learning Kits and Uniforms'
           - With DepED LRN. DepED Recognized Program
-          - Feature three
+          - 'Progressive '
           - Feature four
         image:
           type: ImageBlock
