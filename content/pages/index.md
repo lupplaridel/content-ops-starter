@@ -92,7 +92,7 @@ sections:
           type: ImageBlock
           altText: playgroup
           elementId: ''
-          url: /images/1.jpg
+          url: /images/2.jpg
           styles:
             self:
               borderRadius: x-large
