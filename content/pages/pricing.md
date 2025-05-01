@@ -157,7 +157,7 @@ sections:
       - type: PricingPlan
         title: Kindergarten
         price: 'Php 45,000'
-        details: No credit card required
+        details: Installment Available
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
