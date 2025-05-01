@@ -22,7 +22,7 @@ sections:
           width: full
         - type: TextFormControl
           name: Child’s Birthdate
-          label: Name
+          label: Child’s Birthdate
           hideLabel: true
           placeholder: Your name
           isRequired: true
