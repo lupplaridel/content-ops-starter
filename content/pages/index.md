@@ -281,7 +281,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/1.png
-      altText: Image alt text placeholder
+      altText: Summer 2025
       elementId: ''
       styles:
         self:
