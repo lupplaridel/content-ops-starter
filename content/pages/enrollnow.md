@@ -38,7 +38,7 @@ sections:
           name: Mobile Number
           label: Mobile Number
           hideLabel: true
-          placeholder: Your name
+          placeholder: Mobile Number
           isRequired: true
           width: full
         - type: EmailFormControl
