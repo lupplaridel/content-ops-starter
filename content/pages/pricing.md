@@ -112,7 +112,7 @@ sections:
           - Can schedule up to 4 sessions per week
         actions:
           - type: Button
-            label: Try for free
+            label: Enroll Now
             url: /
             icon: arrowRight
             iconPosition: right
