@@ -19,16 +19,5 @@
         }
     },
     "type": "Person",
-    "bio": "Graduate of University of the Philippines - Diliman\n",
-    "image": {
-        "type": "ImageBlock",
-        "url": "/images/hero2.svg",
-        "altText": "Image alt text placeholder",
-        "elementId": "",
-        "styles": {
-            "self": {
-                "borderRadius": "medium"
-            }
-        }
-    }
+    "bio": "Graduate of University of the Philippines - Diliman\n"
 }
