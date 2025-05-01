@@ -102,7 +102,7 @@ sections:
           We offer evidence-based intervention services for children who may
           need extra help with behavior, communication, or life skills. 1 on 1.
         image:
-          url: /images/icon2.svg
+          url: /images/3.jpeg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
