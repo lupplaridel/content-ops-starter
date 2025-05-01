@@ -109,7 +109,7 @@ sections:
           borderRadius: large
     badge:
       type: Badge
-      label: Contact Us
+      label: ENROLL NOW
       color: text-primary
     colors: bg-light-fg-dark
 slug: enrollnow
