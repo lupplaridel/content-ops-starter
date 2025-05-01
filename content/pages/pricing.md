@@ -75,7 +75,7 @@ sections:
           - Total of 75 sessions = 50 sessions + 25 FREE (Php 333 per session)
           - FREE Assessment
           - FREE Lootbag & Shirt
-          - Feature five
+          - Can schedule up to 4 sessions per week
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
