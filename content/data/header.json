@@ -43,17 +43,19 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Book A Visit",
-            "altText": "Free trial class",
-            "url": "facebook.com/lightupplaridel",
+            "type": "Button",
+            "label": "Book a Visit",
+            "altText": "Free Trial Class",
+            "url": "https://facebook.com/lightupplayhouseplaridel/",
+            "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Button"
+            "elementId": ""
         },
         {
             "label": "Enroll Now",
-            "url": "/",
+            "url": "/enrollnow",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
