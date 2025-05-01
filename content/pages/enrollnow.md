@@ -65,7 +65,8 @@ sections:
           label: Does your child have a diagnosed developmental concern?
           hideLabel: false
           defaultValue: Please choose...
-          options: []
+          options:
+            - ''
           isRequired: true
           width: full
         - type: TextareaFormControl
