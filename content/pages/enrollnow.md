@@ -61,6 +61,14 @@ sections:
           hideLabel: true
           placeholder: Your message
           width: full
+        - type: SelectFormControl
+          name: Program You're Interested In
+          label: Company size
+          hideLabel: false
+          defaultValue: Please choose...
+          options: []
+          isRequired: false
+          width: full
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
