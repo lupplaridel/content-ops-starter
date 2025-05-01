@@ -138,7 +138,7 @@ sections:
           Best for Intervention and Enrichment Programs
         features:
           - All Programs
-          - Total of 100 sessions = 75 sessions + 25 FREE (Php 300 per session)
+          - Total of 175 sessions = 100 sessions + 75 FREE (Php 285 per session)
           - Feature three
           - Feature four
         image:
