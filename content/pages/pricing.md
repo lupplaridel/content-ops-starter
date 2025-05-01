@@ -41,9 +41,8 @@ sections:
       - title: Package 2
         price: 'Php 10,000'
         details: Installment Available
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          For Playgroups, Intervention and Enrichment Programs
         features:
           - One Program Only
           - Total of 25 sessions = 20 sessions + 5 FREE (Php 400 per session)
