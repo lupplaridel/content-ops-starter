@@ -3,7 +3,7 @@ title: Careers
 slug: careers
 sections:
   - title:
-      text: Be Part of Something Bright ✨
+      text: Careers at Light Up Playhouse
       color: text-dark
       styles:
         self:
