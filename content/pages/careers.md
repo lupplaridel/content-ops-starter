@@ -88,8 +88,9 @@ sections:
       - title: SPED Teacher (Full Time)
         subtitle: ''
         text: >
-          Help children build a strong foundation through structured play and
-          social-emotional learning.
+          Create meaningful learning moments through structured play and
+          personalized instruction. Help children thrive in a supportive,
+          inclusive environment where every small win is celebrated.
         colors: bg-neutral-fg-dark
         styles:
           self:
