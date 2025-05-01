@@ -40,6 +40,13 @@ sections:
           hideLabel: true
           placeholder: Your message
           width: full
+        - type: TextFormControl
+          name: Parent/Guardian Full Name
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
+          width: full
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
