@@ -31,12 +31,12 @@
         },
         {
             "type": "Link",
-            "label": "Payments",
-            "altText": "",
-            "url": "/",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
+            "label": "Facebook",
+            "altText": "Facebook",
+            "url": "https://facebook.com/lightupplayhouseplaridel/",
+            "showIcon": true,
+            "icon": "facebook",
+            "iconPosition": "left",
             "style": "secondary",
             "elementId": ""
         }
