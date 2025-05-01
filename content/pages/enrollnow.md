@@ -55,6 +55,7 @@ sections:
           defaultValue: Please choose...
           options:
             - Kindergarten
+            - ''
           isRequired: false
           width: full
         - type: TextareaFormControl
