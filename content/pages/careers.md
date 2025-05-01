@@ -151,7 +151,7 @@ sections:
     type: FeaturedItemsSection
 seo:
   metaTitle: Teaching Career - Light Up Playhouse Plaridel Bulacan Branch
-  metaDescription: Light Up Playhouse Plaridel Bulacan Branch
+  metaDescription: Become a Teacher or Therapist at Light Up Playhouse Plaridel Bulacan Branch
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
