@@ -15,7 +15,7 @@ sections:
         price: 'Php 5,000'
         details: One Time Payment
         description: |
-          For Playgroups, Intervention and Enrichment Programs
+          Best for Playgroups and Enrichment Programs
         features:
           - One Program Only
           - 10 sessions (Php 500 per session)
