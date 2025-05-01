@@ -14,7 +14,7 @@
             },
             {
                 "label": "Packages",
-                "url": "/admissions",
+                "url": "/pricing",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
