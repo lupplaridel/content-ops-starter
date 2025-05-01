@@ -58,6 +58,7 @@ sections:
             - 'Early Intervention (Speech, OT, ABA)'
             - English Enrichment
             - Playgroup (1-5 yo)
+            - ''
           isRequired: false
           width: full
         - type: TextareaFormControl
