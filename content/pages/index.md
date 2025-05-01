@@ -174,7 +174,7 @@ sections:
     actions:
       - label: Enroll Now
         altText: ''
-        url: /
+        url: /enrollnow
         showIcon: false
         icon: arrowRight
         iconPosition: right
