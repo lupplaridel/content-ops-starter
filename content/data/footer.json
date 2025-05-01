@@ -83,7 +83,7 @@
     "type": "Footer",
     "logo": {
         "type": "ImageBlock",
-        "url": "/images/hero2.svg",
+        "url": "/images/lup.svg",
         "altText": "Image alt text placeholder",
         "elementId": "",
         "styles": {
