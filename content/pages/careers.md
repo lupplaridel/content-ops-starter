@@ -86,7 +86,7 @@ sections:
       world—one day at a time.
     items:
       - title: SPED Teacher
-        subtitle: ''
+        subtitle: Full Time
         text: >
           Create meaningful learning moments through structured play and
           personalized instruction. Help children thrive in a supportive,
