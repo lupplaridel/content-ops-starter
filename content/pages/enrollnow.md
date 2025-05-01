@@ -89,6 +89,13 @@ sections:
             - Others
           isRequired: false
           width: full
+        - type: TextFormControl
+          name: Facebook Messenger Name
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
+          width: full
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
