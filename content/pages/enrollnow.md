@@ -60,6 +60,14 @@ sections:
             - 'Intervention Programs (Speech, ABA, Daily Life Skills)'
           isRequired: true
           width: full
+        - type: SelectFormControl
+          name: Does your child have a diagnosed developmental concern?
+          label: Company size
+          hideLabel: false
+          defaultValue: Please choose...
+          options: []
+          isRequired: false
+          width: full
         - type: TextareaFormControl
           name: Program You're Interested In
           label: Message
@@ -72,14 +80,6 @@ sections:
           label: Message
           hideLabel: true
           placeholder: Your message
-          width: full
-        - type: SelectFormControl
-          name: Does your child have a diagnosed developmental concern?
-          label: Company size
-          hideLabel: false
-          defaultValue: Please choose...
-          options: []
-          isRequired: false
           width: full
         - type: CheckboxFormControl
           name: Does your child have a diagnosed developmental concern?
