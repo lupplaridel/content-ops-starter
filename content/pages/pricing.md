@@ -74,7 +74,7 @@ sections:
           - All Programs
           - Total of 75 sessions = 50 sessions + 25 FREE (Php 333 per session)
           - FREE Assessment
-          - Feature four
+          - FREE Lootbag & Shirt
           - Feature five
         image:
           url: /images/abstract-feature3.svg
