@@ -85,7 +85,7 @@ sections:
       educators, therapists, and support staff who light up every child’s
       world—one day at a time.
     items:
-      - title: Preschool Teacher (Full Time)
+      - title: SPED Teacher (Full Time)
         subtitle: ''
         text: >
           Help children build a strong foundation through structured play and
