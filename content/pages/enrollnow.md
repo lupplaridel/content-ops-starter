@@ -92,7 +92,7 @@ sections:
             - Referral
             - Facebook
             - Walk-in
-            - ''
+            - Others
           isRequired: false
           width: full
         - type: CheckboxFormControl
