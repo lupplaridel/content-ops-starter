@@ -56,7 +56,7 @@ sections:
           options:
             - Kindergarten
             - 'Early Intervention (Speech, OT, ABA)'
-            - ''
+            - Enrichment Classes
           isRequired: false
           width: full
         - type: TextareaFormControl
