@@ -58,7 +58,7 @@ sections:
             - Kindergarten
             - Enrichment Classes
             - 'Intervention Programs (Speech, ABA, Daily Life Skills)'
-          isRequired: false
+          isRequired: true
           width: full
         - type: TextareaFormControl
           name: Program You're Interested In
