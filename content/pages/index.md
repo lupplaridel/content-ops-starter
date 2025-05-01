@@ -372,12 +372,16 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Reach out anytime — we’re happy to assist!
-    text: |+
-      *   Location: Gov Padilla Rd, Agnaya, Plaridel, Bulacan
+    text: >+
+      *   Location: Gov Padilla Rd, Agnaya, Plaridel, Bulacan (in front of
+      Meralco)
+
 
       *   Mobile: 09999922678
 
+
       *   Email: <lightupplaridel@gmail.com>
+
 
       *   FB Messenger: <https://facebook.com/lightupplaridel>
 
