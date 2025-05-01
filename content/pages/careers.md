@@ -3,19 +3,18 @@ title: Careers
 slug: careers
 sections:
   - title:
-      text: A team that works closely together
+      text: Careers at Light Up Playhouse
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
+    subtitle: Be Part of Something Bright ✨
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      Are you passionate about early childhood development, playful learning,
+      and making a difference in young lives? Join our growing team of
+      educators, therapists, and support staff who light up every child’s
+      world—one day at a time.
     actions:
       - label: See open positions
         url: /
@@ -48,47 +47,20 @@ sections:
       opacity: 100
       url: /images/abstract-background.svg
   - title:
-      text: Meet the team
+      text: Open Positions
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    people:
-      - content/data/person1.json
-      - content/data/person2.json
-      - content/data/person3.json
-      - content/data/person4.json
-      - content/data/person5.json
-      - content/data/person6.json
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedPeopleSection
-  - title:
-      text: Open positions
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     items:
-      - title: Account Executive
-        subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: SPED Teacher
+        subtitle: Full Time
+        text: >
+          Create meaningful learning moments through structured play and
+          personalized instruction. Help children thrive in a supportive,
+          inclusive environment where every small win is celebrated.
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -102,12 +74,12 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Open Source Engineer
-        subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Shadow Teacher
+        subtitle: Part-time
+        text: >
+          Support our learners during classes and free play. Be a guiding
+          presence for children who need a bit more help navigating their day,
+          while learning alongside experienced educators and/or therapists.
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -121,12 +93,12 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Senior Software Engineer
-        subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Speech Pathologist
+        subtitle: Consultant
+        text: >
+          Provide communication-focused intervention in a fun, play-based
+          setting. Join our team as a valued consultant to support children in
+          reaching their speech and language goals.
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -138,6 +110,25 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
+      - type: FeaturedItem
+        title: Occupational Therapist
+        tagline: ''
+        subtitle: Consultant
+        text: >
+          Support children’s growth in sensory processing, fine motor skills,
+          and daily routines. As a consultant OT, you'll work in a collaborative
+          and child-led environment that values development through play.
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
     actions:
       - label: Apply now
         url: /
