@@ -50,7 +50,7 @@ sections:
           - Total of 25 sessions = 20 sessions + 5 FREE (Php 400 per session)
           - FREE Assessment
           - FREE Lootbag & Shirt
-          - ''
+          - Can schedule up to 2 sessions per week
         actions:
           - label: Enroll Now
             url: /
