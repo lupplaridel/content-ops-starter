@@ -150,9 +150,9 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
 seo:
-  metaTitle: Careers - Demo site
-  metaDescription: This is the careers page built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Teaching Career - Light Up Playhouse Plaridel Bulacan Branch
+  metaDescription: Become a Teacher or Therapist at Light Up Playhouse Plaridel Bulacan Branch
+  socialImage: /images/PLAYHOUSE (1600 x 1040 px).jpg
   type: Seo
 type: PageLayout
 ---
