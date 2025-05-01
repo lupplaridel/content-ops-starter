@@ -101,7 +101,7 @@ sections:
           label: >-
             Submitting this form means you consent to Light Up Playhouse
             contacting you regarding your child’s enrollment.
-          isRequired: false
+          isRequired: true
           width: full
       submitButton:
         type: SubmitButtonFormControl
