@@ -150,7 +150,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
 seo:
-  metaTitle: Careers - Light Up Playhouse Plaridel Bulacan Branch
+  metaTitle: Teaching Career - Light Up Playhouse Plaridel Bulacan Branch
   metaDescription: Light Up Playhouse Plaridel Bulacan Branch
   socialImage: /images/main-hero.jpg
   type: Seo
