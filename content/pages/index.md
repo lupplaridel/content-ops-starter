@@ -24,7 +24,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Explore Our Programs
+      - label: Explore Our Packages
         altText: ''
         url: /
         showIcon: true
