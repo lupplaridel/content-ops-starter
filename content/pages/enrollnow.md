@@ -62,7 +62,7 @@ sections:
           width: full
         - type: SelectFormControl
           name: Does your child have a diagnosed developmental concern?
-          label: Company size
+          label: Does your child have a diagnosed developmental concern?
           hideLabel: false
           defaultValue: Please choose...
           options: []
