@@ -56,6 +56,7 @@ sections:
           options:
             - Kindergarten
             - 'Early Intervention (Speech, OT, ABA)'
+            - ''
           isRequired: false
           width: full
         - type: TextareaFormControl
