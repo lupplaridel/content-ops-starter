@@ -80,7 +80,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Be Part of Something Bright
     items:
       - title: Account Executive
         subtitle: Sales
