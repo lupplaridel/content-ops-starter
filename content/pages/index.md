@@ -304,7 +304,7 @@ sections:
         type: FeaturedItem
       - title: '"Ang laki po ng improvement niya. Thank you po"'
         tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
+        subtitle: Mommy E
         text: |
           Happy ang baby ko hehe. Ang laki po ng improvement niya. Thank you po
         image:
