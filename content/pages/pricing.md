@@ -165,7 +165,7 @@ sections:
           - 'Inclusive of Light Up Bag, Workbooks, Learning Kits and Uniforms'
           - DepED Recognized Program
           - Progressive Learning Approach
-          - ''
+          - 'Child must be 5 yrs old by Oct 31, 2025'
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
