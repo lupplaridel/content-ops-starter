@@ -97,7 +97,7 @@ sections:
         type: PricingPlan
       - type: PricingPlan
         title: Package 4
-        price: Installment Available
+        price: 'Php 30,000'
         details: Installment Available
         description: |+
           Best for Intervention and Enrichment Programs
