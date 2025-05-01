@@ -133,7 +133,7 @@ seo:
   metaTitle: >-
     Light Up Playhouse is a progressive learning center in Plaridel, Bulacan
     offering early education, intervention programs (Speech, OT, ABA),
-    play-based learning, and after-school enrichment for children ages 1-12." />
+    play-based learning, and after-school enrichment for children ages 1-15.
   metaDescription: Write here your new page's description including most relevant keywords.
   addTitleSuffix: true
   socialImage: /images/PLAYHOUSE (1600 x 1040 px).jpg
