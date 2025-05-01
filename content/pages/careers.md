@@ -11,11 +11,10 @@ sections:
       type: TitleBlock
     subtitle: Section subtitle
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      Are you passionate about early childhood development, playful learning,
+      and making a difference in young lives? Join our growing team of
+      educators, therapists, and support staff who light up every child’s
+      world—one day at a time.
     actions:
       - label: See open positions
         url: /
