@@ -162,7 +162,7 @@ sections:
           With DepEd LRN. SPED Kindergarten Program also available.
         features:
           - 'Inclusive of Light Up Bag, Workbooks, Learning Kits and Uniforms'
-          - DepED Recognized Program
+          - 'DepED Recognized Center-Based Home School Program. '
           - Progressive Learning Approach
           - 'Child must be 5 yrs old by Oct 31, 2025'
         actions:
