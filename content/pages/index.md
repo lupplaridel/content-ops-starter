@@ -127,7 +127,7 @@ sections:
           enrichment sessions make learning fun and meaningful. (Literacy, Math,
           Academics, Creative Workshops. 1 on 1 or Group.
         image:
-          url: /images/icon3.svg
+          url: /images/4.jpg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
