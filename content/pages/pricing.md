@@ -99,9 +99,9 @@ sections:
         title: Package 4
         price: Installment Available
         details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |+
+          Best for Intervention and Enrichment Programs
+
         features:
           - Feature one
           - Feature two
