@@ -43,7 +43,7 @@ sections:
           width: full
         - type: EmailFormControl
           name: Email Address
-          label: Email
+          label: Email Address
           hideLabel: true
           placeholder: Your email
           isRequired: true
