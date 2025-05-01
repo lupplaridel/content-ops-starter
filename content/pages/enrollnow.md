@@ -71,7 +71,7 @@ sections:
           isRequired: true
           width: full
         - type: TextareaFormControl
-          name: message
+          name: Message
           label: Message
           hideLabel: true
           placeholder: Your message
