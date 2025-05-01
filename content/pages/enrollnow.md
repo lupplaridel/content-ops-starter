@@ -70,6 +70,12 @@ sections:
             - 'No'
           isRequired: true
           width: full
+        - type: TextareaFormControl
+          name: message
+          label: Message
+          hideLabel: true
+          placeholder: Your message
+          width: full
         - type: SelectFormControl
           name: 'How did you hear about us? '
           label: 'How did you hear about us? '
@@ -81,12 +87,6 @@ sections:
             - Walk-in
             - Others
           isRequired: false
-          width: full
-        - type: TextareaFormControl
-          name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
           width: full
       submitButton:
         type: SubmitButtonFormControl
