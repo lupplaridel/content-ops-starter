@@ -90,7 +90,7 @@ sections:
           defaultValue: Please choose...
           options:
             - Referral
-            - ''
+            - Facebook
           isRequired: false
           width: full
         - type: CheckboxFormControl
