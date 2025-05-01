@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: ''
+    subtitle: Be Part of Something Bright ✨
     text: >
       Are you passionate about early childhood development, playful learning,
       and making a difference in young lives? Join our growing team of
