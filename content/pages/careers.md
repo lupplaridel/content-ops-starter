@@ -3,7 +3,7 @@ title: Careers
 slug: careers
 sections:
   - title:
-      text: ✨ Be Part of Something Bright
+      text: Be Part of Something Bright ✨
       color: text-dark
       styles:
         self:
