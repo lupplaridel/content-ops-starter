@@ -1,33 +1,20 @@
 {
-    "logo": {
-        "url": "/images/logo-white.svg",
-        "altText": "Logo light",
-        "type": "ImageBlock"
-    },
-    "text": "A description of your brand",
+    "text": "Gov Padilla Road, Agnaya, Plaridel, Bulacan (in front of Meralco, beside CJDR Paints Trading)\n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "Contact Us",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
+                "label": "Intent to Enroll",
+                "altText": "Enroll Now",
+                "url": "/enrollnow",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
+                "label": "Packages",
+                "url": "/admissions",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -37,20 +24,12 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "LIGHT UP PLAYHOUSE",
         "links": [
             {
                 "label": "Careers",
                 "altText": "careers page",
                 "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -61,26 +40,14 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
+            "altText": "Facebook link",
+            "url": "https://facebook.com/lightupplaridel",
+            "icon": "facebook",
             "type": "Social"
         },
         {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
-            "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "/",
+            "altText": "Email",
+            "url": "mailto: lightupplaridel@gmail.com",
             "icon": "mail",
             "type": "Social"
         }
@@ -105,5 +72,17 @@
     ],
     "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
     "colors": "bg-dark-fg-light",
-    "type": "Footer"
+    "type": "Footer",
+    "logo": {
+        "type": "ImageBlock",
+        "url": "/images/lup.svg",
+        "altText": "Light Up Playhouse Plaridel Bulacan",
+        "elementId": "",
+        "styles": {
+            "self": {
+                "borderRadius": "medium"
+            }
+        }
+    },
+    "title": "Light Up Playhouse"
 }
