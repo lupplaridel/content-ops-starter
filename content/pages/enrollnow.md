@@ -50,7 +50,7 @@ sections:
           width: full
         - type: SelectFormControl
           name: Program You're Interested In
-          label: Company size
+          label: Program You're Interested In
           hideLabel: false
           defaultValue: Please choose...
           options: []
