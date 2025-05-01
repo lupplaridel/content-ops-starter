@@ -89,7 +89,7 @@ sections:
           hideLabel: false
           defaultValue: Please choose...
           options:
-            - ''
+            - Referral
           isRequired: false
           width: full
         - type: CheckboxFormControl
