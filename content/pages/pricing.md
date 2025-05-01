@@ -103,7 +103,7 @@ sections:
           Best for Intervention and Enrichment Programs
 
         features:
-          - Feature one
+          - All Programs
           - Feature two
           - Feature three
           - Feature four
