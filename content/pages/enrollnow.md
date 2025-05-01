@@ -48,6 +48,14 @@ sections:
           placeholder: Email Address
           isRequired: true
           width: full
+        - type: SelectFormControl
+          name: Program You're Interested In
+          label: Company size
+          hideLabel: false
+          defaultValue: Please choose...
+          options: []
+          isRequired: false
+          width: full
         - type: TextareaFormControl
           name: Program You're Interested In
           label: Message
@@ -60,14 +68,6 @@ sections:
           label: Message
           hideLabel: true
           placeholder: Your message
-          width: full
-        - type: SelectFormControl
-          name: Program You're Interested In
-          label: Company size
-          hideLabel: false
-          defaultValue: Please choose...
-          options: []
-          isRequired: false
           width: full
       submitButton:
         type: SubmitButtonFormControl
