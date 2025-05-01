@@ -98,7 +98,7 @@ sections:
       - type: PricingPlan
         title: Package 4
         price: Installment Available
-        details: No credit card required
+        details: Installment Available
         description: |+
           Best for Intervention and Enrichment Programs
 
