@@ -50,7 +50,7 @@ sections:
           width: full
         - type: TextFormControl
           name: Facebook Messenger Name
-          label: Name
+          label: Facebook Messenger Name
           hideLabel: true
           placeholder: Your name
           isRequired: true
