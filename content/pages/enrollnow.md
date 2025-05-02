@@ -52,7 +52,7 @@ sections:
           name: Facebook Messenger Name
           label: Facebook Messenger Name
           hideLabel: true
-          placeholder: Your name
+          placeholder: Facebook Messenger Name
           isRequired: true
           width: full
         - type: SelectFormControl
