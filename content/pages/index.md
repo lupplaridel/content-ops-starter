@@ -394,7 +394,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/3.jpg
-      altText: Image alt text placeholder
+      altText: Light Up Playhouse Plaridel Bulacan
       elementId: ''
       styles:
         self:
