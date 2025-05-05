@@ -391,6 +391,14 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
+    media:
+      type: ImageBlock
+      url: /images/hero2.svg
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
 seo:
   metaTitle: Light Up Playhouse Plaridel Bulacan Branch
   metaDescription: >-
