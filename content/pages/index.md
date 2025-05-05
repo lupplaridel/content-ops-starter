@@ -383,7 +383,7 @@ sections:
       *   Email: <lightupplaridel@gmail.com>
 
 
-      *   FB Messenger: https\://www\.facebook.com/lightupplayhouseplaridel/
+      *   FB Messenger: <https://www.facebook.com/lightupplayhouseplaridel/>
 
     badge:
       label: Contact Us
