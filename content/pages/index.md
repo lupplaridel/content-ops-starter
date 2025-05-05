@@ -174,7 +174,7 @@ sections:
     actions:
       - label: Enroll Now
         altText: ''
-        url: /enrollnow
+        url: 'https://forms.gle/GYVZratcdGcQVM1y8'
         showIcon: false
         icon: arrowRight
         iconPosition: right
