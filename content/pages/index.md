@@ -393,7 +393,7 @@ sections:
     type: GenericSection
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/3.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
