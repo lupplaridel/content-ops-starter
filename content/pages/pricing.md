@@ -82,7 +82,7 @@ sections:
           - Can schedule up to 4 sessions per week
         actions:
           - label: Enroll Now
-            url: /enrollnow
+            url: 'https://forms.gle/GYVZratcdGcQVM1y8'
             icon: arrowRight
             iconPosition: right
             style: secondary
