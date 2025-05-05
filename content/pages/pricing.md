@@ -113,7 +113,7 @@ sections:
         actions:
           - type: Button
             label: Enroll Now
-            url: /enrollnow
+            url: 'https://forms.gle/GYVZratcdGcQVM1y8'
             icon: arrowRight
             iconPosition: right
             style: secondary
