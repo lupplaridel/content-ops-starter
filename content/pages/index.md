@@ -385,50 +385,6 @@ sections:
 
       *   FB Messenger: <https://facebook.com/lightupplaridel>
 
-    media:
-      fields:
-        - name: Parent's Name
-          label: Parent's Name
-          hideLabel: true
-          placeholder: Parent's Name
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: Contact Number
-          label: Contact Number
-          hideLabel: true
-          placeholder: Contact Number
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: 'Child''s Age, Program of Interest, Your Message/Concern'
-          width: full
-          type: TextareaFormControl
-          isRequired: true
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: null
     badge:
       label: Contact Us
       color: text-primary
